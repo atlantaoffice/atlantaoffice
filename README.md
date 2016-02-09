@@ -1,2 +1,0 @@
-# atlantaoffice
-personal site
